@@ -5,7 +5,7 @@
 --->
 
 
-<img src = "https://id.pinterest.com/pin/73253931431324295/">
+<img src = "https://i.pinimg.com/originals/ab/dc/be/abdcbe5fdef8ee78bdc312cda2b67df6.gif">
 <h1 align="center">Hi 👋, I'm Dwiki Yulian</h1>
 <h3 align="center">A passionate fullstack developer and game developer Indonesia</h3>
 
