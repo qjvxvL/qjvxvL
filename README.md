@@ -23,7 +23,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dwiki yulian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dwiki yulian" height="30" width="40" /></a>
+<a href="https://dev.to/https://dev.to/dwikiyulian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/dwikiyulian" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/dwikiyulian-0394b8216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dwikiyulian-0394b8216/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/16150563/dwiki-y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/16150563/dwiki-y" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -32,6 +34,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dwikiyulian&show_icons=true&locale=en&layout=compact" alt="dwikiyulian" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dwikiyulian&show_icons=true&locale=en" alt="dwikiyulian" /></p>
+
 
 <a href="https://app.daily.dev/coderobstacles"><img src="https://api.daily.dev/devcards/6f594967b01341aeb6d988085ec25627.png?r=0tp" width="400" alt="Dwiki Yulian's Dev Card"/></a>
 <!---
