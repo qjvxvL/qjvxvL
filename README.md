@@ -5,7 +5,7 @@
 --->
 
 
-<img src = "[https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fhard-work-gifs&psig=AOvVaw1_EtvcEry1CF4KNakE23G5&ust=1710767314841000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOC6oYWv-4QDFQAAAAAdAAAAABAE](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDY-DtyTnuTDH1D5V06dKHvB8SCH5YJY3QJx0MuEQMxw&s)">
+<img src = "https://id.pinterest.com/pin/73253931431324295/">
 <h1 align="center">Hi 👋, I'm Dwiki Yulian</h1>
 <h3 align="center">A passionate fullstack developer and game developer Indonesia</h3>
 
