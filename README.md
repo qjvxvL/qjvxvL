@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **data structures, calculus, scientific computing**
 
-- 👨‍💻 All of my projects are available at [dwikiyulian.github.io](qjvxvl.github.io/dwikiyulian.github.io/)
+- 👨‍💻 All of my projects are available at [dwikiyulian portfolio]([qjvxvl.github.io/dwikiyulian.github.io/](https://qjvxvl.github.io/dwikiyulian.github.io/))
 
 - 👨‍💻 My Self Improvement Deepstash Profile [https://deepstash.com/u/dwikiyulian_]
 
