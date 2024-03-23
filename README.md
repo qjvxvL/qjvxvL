@@ -19,6 +19,8 @@
 
 - 👨‍💻 All of my projects are available at [dwikiyulian.github.io](dwikiyulian.github.io)
 
+- My Self Improvement Deepstash Profile [https://deepstash.com/u/dwikiyulian_]
+
 - 💬 Ask me about **javascript, c, python**
 
 - ⚡ Fun fact **I like a cat**
