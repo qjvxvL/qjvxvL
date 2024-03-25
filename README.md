@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available at [HERE](https://qjvxvl.github.io/dwikiyulian.github.io/)
 
-- 👨‍💻 My Self Improvement Deepstash Profile [https://deepstash.com/u/dwikiyulian_]
+- 👨‍💻 My Self Improvement Deepstash Profile [https://deepstash.com/u/qjvxvlhyvna_]
 
 - 💬 Ask me about **javascript, c, python**
 
