@@ -42,7 +42,7 @@
 
 <a href="https://app.daily.dev/coderobstacles"><img src="https://api.daily.dev/devcards/6f594967b01341aeb6d988085ec25627.png?r=0tp" width="400" alt="Dwiki Yulian's Dev Card" align = "left"/></a>  <a  href="LINK TO: WHEN CLICKED">
       <img align = "center" src="https://github.r2v.ch/codewars?user=dwikiyulian" width="400"/>
-    </a> ![Leetcode Stats](https://leetcard.jacoblin.cool/qjvxvL?width=500&height=250)
+    </a> ![Leetcode Stats](https://leetcard.jacoblin.cool/qjvxvL?ext=activity?width=500&height=250?ext=activity)
 
  
 
