@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **data structures, fullstack Software, scientific computing**
 
-- 👨‍💻 All of my projects are available at [HERE](https://qjvxvl.github.io/dwikiyulian.github.io/)
+- 👨‍💻 All of my projects are available at [HERE](https://qjvxvl.github.io/qjvxvl.github.io/)
 
 - 👨‍💻 My Self Improvement Deepstash Profile [https://deepstash.com/u/qjvxvlhyvna_]
 
