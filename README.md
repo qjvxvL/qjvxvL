@@ -15,7 +15,7 @@
 
 <img align= "right" src = "https://i.pinimg.com/originals/ab/dc/be/abdcbe5fdef8ee78bdc312cda2b67df6.gif">
 
-- 🌱 I’m currently learning **data structures, fullstack Software, scientific computing**
+- 🌱 I’m currently learning **data structures, fullstack Software, scientific computing, *secret*, *secret* **
 
 - 👨‍💻 All of my projects are available at [HERE](https://qjvxvl.github.io/qjvxvl.github.io/)
 
