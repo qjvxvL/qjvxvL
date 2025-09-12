@@ -15,13 +15,11 @@
 
 <img align= "right" src = "https://i.pinimg.com/originals/ab/dc/be/abdcbe5fdef8ee78bdc312cda2b67df6.gif">
 
-- 🌱 I’m currently learning **data structures, fullstack Software, scientific computing, *secret*, *secret***
-
-- 👨‍💻 All of my projects are available at [HERE](https://qjvxvl.github.io/qjvxvl.github.io/)
+- 🌱 I’m currently learning **flutter, fullstack Software, machine learning***
 
 - 👨‍💻 My Self Improvement Deepstash Profile [https://deepstash.com/u/qjvxvlhyvna_]
 
-- 💬 Ask me about **javascript, c, python**
+- 💬 Ask me about **javascript, python, flutter**
 
 - ⚡ Fun fact **I like a cat**
 
