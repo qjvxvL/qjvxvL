@@ -7,7 +7,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Dwiki Yulian</h1>
-<h3 align="center">A passionate fullstack developer and game developer Indonesia</h3>
+<h3 align="center">A passionate Software Engineer Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qjvxvL&label=Profile%20views&color=0e75b6&style=flat" alt="dwikiyulian" /> </p>
 
