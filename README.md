@@ -15,7 +15,7 @@
 
 <img align= "right" src = "https://i.pinimg.com/originals/ab/dc/be/abdcbe5fdef8ee78bdc312cda2b67df6.gif">
 
-- 🌱 I’m currently learning **flutter, fullstack Software, machine learning, Kotlin***
+- 🌱 I’m currently learning **Flutter, Fullstack Software, Machine Learning, Kotlin***
 
 - 👨‍💻 My Self Improvement Deepstash Profile [https://deepstash.com/u/qjvxvlhyvna_]
 
