@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **Flutter, Fullstack Software, Machine Learning, Kotlin***
 
-- 👨‍💻 My Self Improvement Deepstash Profile [https://deepstash.com/u/qjvxvlhyvna_]
+- 👨‍💻 My Self Improvement Deepstash Profile [https://dsta.sh/oXUqt]
 
 - 💬 Ask me about **javascript, python, flutter**
 
