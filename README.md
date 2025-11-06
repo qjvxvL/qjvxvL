@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qjvxvL" alt="dwikiyulian" /></a> </p>
 
-<img align= "right" src = "https://i.pinimg.com/originals/ab/dc/be/abdcbe5fdef8ee78bdc312cda2b67df6.gif">
+<!-- <img align= "right" src = "https://i.pinimg.com/originals/ab/dc/be/abdcbe5fdef8ee78bdc312cda2b67df6.gif"> -->
 
 - 🌱 I’m currently learning **Flutter, Fullstack Software, Machine Learning, Kotlin***
 
@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **javascript, python, flutter**
 
-- ⚡ Fun fact **I like a cat**
+<!-- ⚡ Fun fact **I like a cat** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
