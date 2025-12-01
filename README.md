@@ -63,7 +63,7 @@
 
 ### 🎨 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,flutter" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
 ### ⚙️ Backend & Languages
@@ -71,16 +71,21 @@
   <img src="https://skillicons.dev/icons?i=nodejs,python,php,cs,c,kotlin" />
 </p>
 
+#### Framework
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=laravel, react, flutter" />
+</p>
+
 ### 🗄️ Database & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postman,git,unity,vscode" />
+  <img src="https://skillicons.dev/icons?i=mysql,postman,git,unity,vscode,ubuntu" />
 </p>
 
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- GitHub Stats Section -->
-<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> GitHub Stats
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> GitHub Stats
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
