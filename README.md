@@ -71,9 +71,9 @@
   <img src="https://skillicons.dev/icons?i=nodejs,python,php,cs,c,kotlin" />
 </p>
 
-#### Framework
+### Framework
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=laravel, react, flutter" />
+  <img src="https://skillicons.dev/icons?i=laravel,react,flutter" />
 </p>
 
 ### 🗄️ Database & Tools
