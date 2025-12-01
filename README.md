@@ -78,7 +78,7 @@
 
 ### 🗄️ Database & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postman,git,unity,vscode,ubuntu" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,postman,git,github,figma,unity,vscode,androidstudio,ubuntu" />
 </p>
 
 <!-- Divider -->
