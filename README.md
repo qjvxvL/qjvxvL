@@ -91,7 +91,7 @@
 <table align="center">
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=qjvxvL&show_icons=true&theme=algolia&hide_border=true&count_private=true" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=qjvxvL&show_icons=true&theme=algolia&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats"/>
     </td>
     <td width="50%">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=qjvxvL&theme=algolia&hide_border=true" alt="GitHub Streak"/>
@@ -100,7 +100,7 @@
 </table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=qjvxvL&show_icons=true&locale=en&layout=compact&theme=algolia&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=qjvxvL&show_icons=true&locale=en&layout=compact&theme=algolia&hide_border=true&langs_count=8&card_width=445" alt="Top Languages"/>
 </p>
 
 <!-- Divider -->
