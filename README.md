@@ -84,7 +84,6 @@
   <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,postman,git,github,figma,unity,vscode,androidstudio,ubuntu" />
 </p>
 
-![Claude Code](https://img.shields.io/badge/Built_with-Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
