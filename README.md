@@ -22,7 +22,7 @@
 
 <img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-- 🌱 Currently learning **Flutter, Fullstack Software, Artificial Intelligence, Kotlin, System Design Architecture**
+- 🌱 Currently learning **Full-stack Software, Artificial Intelligence, System Design Architecture**
 
 - 💻 Working on exciting **Web & Mobile Development** projects
 
