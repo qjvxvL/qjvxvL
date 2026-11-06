@@ -28,7 +28,7 @@
 
 - 💬 Ask me about **JavaScript, Flutter**
 
-- 👨‍💻 Self Improvement Profile: [Deepstash](https://dsta.sh/oXUqt) *(or search @qjvxvlhyvna_)*
+<!-- - 👨‍💻 Self Improvement Profile: [Deepstash](https://dsta.sh/oXUqt) *(or search @qjvxvlhyvna_)* -->
 
 - ⚡ Fun fact: **I love building things that make a difference!**
 
