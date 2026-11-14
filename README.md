@@ -50,9 +50,9 @@
   <a href="https://dev.to/dwikiyulian" target="_blank">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
   </a>
-  <a href="https://dsta.sh/oXUqt" target="_blank">
+  <!-- <a href="https://dsta.sh/oXUqt" target="_blank">
     <img src="https://img.shields.io/badge/Deepstash-FF6B6B?style=for-the-badge&logo=buffer&logoColor=white" alt="Deepstash"/>
-  </a>
+  </a> -->
   <a href="https://gitlab.com/qjvxvl" target="_blank">
     <img src="https://img.shields.io/badge/GitLab-FC6C22?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
 </a>
